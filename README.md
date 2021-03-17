@@ -1,5 +1,5 @@
 # vue-testing-random-user
 
 
-erster Test
+erster Test vue cdn
 https://ytkyoung.github.io/vue-testing-random-user/
